@@ -1,4 +1,17 @@
 h1 {
-  
+  color:red;
+  top-margin: 25pt;
 }
-
+.tuade{
+  color:tomato;
+  font-family: Arial;
+  top-margin:20pt;
+  font-size:20pt;
+  font-weight: bold;
+}
+.noidung {
+  color:black; 
+  top-margin: 6pt;
+  font-size: 15pt;
+  font-weight: bold;
+}
