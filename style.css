@@ -1,3 +1,24 @@
+.container{
+  display:flex;
+  flex-diraction: column;
+  height: 100vh;
+}
+.header{
+  flex: 15%;
+  background-color: lightblue;
+}
+.menu{
+    flex: 5%;
+  background-color: darkblue;
+}
+.content{
+    flex: 70%;
+    background-color: white;
+}
+.footer{
+    flex: 10%;
+  background-color: lightblue;
+}
 h1 {
   color:red;
   top-margin: 25pt;
