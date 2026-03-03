@@ -6,14 +6,17 @@
 .header{
   flex: 15%;
   background-color: lightgray;
+  background: url () center "banner"
 }
 .menu{
     flex: 5%;
   background-color: darkgray;
+  display: flex;
+  align-items: center;
 }
 .menu a{
   padding: 15px 20px;
-  color:gray;
+  color:black;
 }
 .menu hover{
   background-color: lightgray;
