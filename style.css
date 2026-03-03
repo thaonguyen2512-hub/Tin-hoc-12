@@ -5,11 +5,11 @@
 }
 .header{
   flex: 15%;
-  background-color: lightblue;
+  background-color: lightgray;
 }
 .menu{
     flex: 5%;
-  background-color: darkblue;
+  background-color: darkgray;
 }
 .menu a{
   padding: 15px 20px;
@@ -31,7 +31,7 @@
 }
 .footer{
     flex: 10%;
-  background-color: lightblue;
+  background-color: lightgray;
 }
 h1 {
   color:red;
