@@ -1,6 +1,6 @@
 .container{
   display:flex;
-  flex-diraction: column;
+  flex-diraction: row;
   height: 100vh;
 }
 .header{
