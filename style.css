@@ -5,7 +5,7 @@
 }
 .header{
   flex: 15%;
-  background: url ("con meo.banner.jpg") center /100%;
+  background: url ("images/con meo.banner.jpg") center /100%;
   aspect-ratio: 6/1;
 }
 .menu{
